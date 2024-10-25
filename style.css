@@ -43,8 +43,8 @@ header nav a:hover{
     height: 100vh;
 }
 
-#vermelho{
-    background-color: red;
+#home{
+    background-image: url('./img/tela-home.jpeg');
 }
 
 #verde{
